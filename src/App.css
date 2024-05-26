@@ -1,0 +1,33 @@
+@media (max-width: 767.98px) {
+    .jumbotron {
+      padding: 1rem;
+    }
+    .display-4 {
+      font-size: 1.5rem;
+    }
+    .form-group input,
+    .form-group textarea {
+      font-size: .7rem;
+    }
+    .card-header {
+        font-size: .5rem;
+        padding: 10px 10px;
+        font-weight: bold;
+        
+    }
+    .btn-primary {
+        padding: 5px;
+        margin-top: 10px;
+        font-size: .9rem;
+    }
+
+    .custom-select select{
+        width: 70px;
+        font-size: .6rem;
+    }
+
+    .card-title {
+        color: pink !important;
+        font-size: 1.2rem;
+    }
+  }
